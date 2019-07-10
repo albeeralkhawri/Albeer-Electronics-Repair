@@ -1,0 +1,396 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+/*Background image*/
+ body{
+     background-image: url("https://4.top4top.net/p_1231hutkx1.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center top;
+     width: 100%;
+     color:white!important;
+}
+/*End Background image*/
+
+
+/* navbar */
+
+ .navbar-inverse .navbar-toggle:hover,.navbar-toggle {
+     border-color: #0000FF;
+     -webkit-transition: all 0.35s ease-in-out;
+}
+
+ .sociall{
+     float: right!important;
+     padding-top: 15px;
+}
+ .dropdown-menu>li>a:hover{
+     background-color:#0000ff6b!important;
+     -webkit-transition: all 0.35s ease-in-out;
+}
+ .navbar-nav>li>.dropdown-menu,input[type=submit]:hover{
+     background-color: #0000ff6b!important;
+     -webkit-transition: all 0.35s ease-in-out;
+}
+ .btn{
+     background-color: #0000FF;
+     -webkit-transition: all 0.35s ease-in-out;
+}
+ .text-center{
+     font-size: 25px;
+     padding-left: auto;
+     padding-right: auto;
+}
+ .divider-sm{
+     height: 2px;
+     width: 140px;
+     border-radius: 10px;
+     background-color: #0000FF;
+     border-top: 1px solid #0000FF;
+}
+ .pro li,.hard li{
+     display:block;
+     padding: 0;
+     margin: auto;
+}
+ h4{
+     margin-top: auto!important;
+}
+ .pro{
+     display:flex;
+}
+ .hard{
+     display: flex;
+     padding-top: 40px;
+}
+ ul{
+     padding-inline-start: 0px!important;
+}
+ .main-container {
+     max-width: 950px;
+     margin: auto;
+}
+ .octo, .octo div {
+     transform-origin: 50% 50%;
+     overflow: hidden;
+     width: 300px;
+     height: 300px;
+}
+ .octo, .octo div {
+     width: 150px;
+     height: 150px;
+}
+ .octo {
+     transform: rotate(45deg);
+}
+ .octo1,.octo2,.octo3,.octo4,.octo5,.octo6,.octo7,.octo8,.octo9,.octo10,.octo11{
+     transform: rotate(-45deg);
+}
+ hr,.divider-md{
+     border-radius: 10px!important;
+     background-color: #0000FF!important;
+     border-top: 1px solid #0000FF!important;
+}
+ h1,p,a,.text-center,.left-text,.h2,.col,.form-group,.col-75,.a,.Sections li a {
+     color: #fff!important;
+     margin: 0;
+     font-family: 'Indie Flower', cursive;
+     text-decoration:none;
+}
+ .divider-long {
+     width: 170px;
+     margin: 0 auto;
+     margin-bottom: 20px;
+     height: 2px;
+     border-radius: 10px;
+     background-color: #0000FF;
+     border-top: 1px solid #0000FF;
+}
+/*form-styling*/
+ * {
+     box-sizing: border-box;
+}
+ input[type=text], select, textarea {
+     width: 100%;
+     padding: 12px;
+     border: 1px solid #ccc;
+     border-radius: 4px;
+}
+ label {
+     padding: 12px 12px 12px 0;
+     display: inline-block;
+}
+ input[type=submit] {
+     background-color: #0000FF;
+     color: white;
+     padding: 12px 20px;
+     border: none;
+     border-radius: 4px;
+     cursor: pointer;
+     margin-bottom: 10px;
+     -webkit-transition: all 0.35s ease-in-out;
+}
+ .container {
+     border-radius: 5px;
+     background-color: #f2f2f2;
+     padding: 20px;
+}
+ .col-75 {
+     float: left;
+     width: 75%;
+     margin-top: 6px;
+}
+/* Clear floats after the columns */
+ .row:after {
+     content: "";
+     display: table;
+     clear: both;
+}
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+ @media screen and (min-width: 1024px){
+     .contain {
+         width: 100%;
+         display: flex;
+    }
+     .social{
+         width: 100%;
+         margin-left: auto;
+         margin-right: auto;
+    }
+     .sociall {
+         float: right!important;
+         padding-top: 15px 
+    }
+}
+ @media screen and (max-width: 600px) {
+     .form-group, .col-75, input[type=submit] {
+         width: 100%;
+         margin-top: 0;
+    }
+     form .center-block{
+         border-radius: 30px;
+         margin-top: 20px;
+         margin-left: 0%!important;
+    }
+     .form-styling {
+         display: block!important;
+         width: 50%!important;
+         margin: 20px auto!important;
+         margin-left: 25%!important;
+         float: none!important;
+    }
+}
+ .container {
+     display: block;
+     cursor: pointer;
+}
+ .bar1, .bar2, .bar3 {
+     width: 35px;
+     height: 5px;
+     background-color: #0000FF;
+     margin: 6px 0;
+     transition: 0.4s;
+}
+ .change .bar1 {
+     -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+     transform: rotate(-45deg) translate(-9px, 6px);
+}
+ .change .bar2 {
+    opacity: 0;
+}
+ .change .bar3 {
+     -webkit-transform: rotate(45deg) translate(-8px, -8px);
+     transform: rotate(45deg) translate(-8px, -8px);
+}
+ .modal-content{
+     background-color: #00387775!important;
+}
+ .modal-header{
+     padding:10px!important;
+     border-bottom:0px!important;
+}
+ .btn-lg{
+     color: white!important;
+}
+ form .center-block{
+     border-radius: 30px;
+     margin-top: 20px;
+     margin-left: 30%;
+}
+/*End-form-styling*/
+
+
+/* font form and footer page */
+ label,.form-control,.col li{
+     font-family: 'Indie Flower', cursive!important;
+}
+
+
+/* footer */
+/* REMOVE THIS, USE YOUR OWN */
+ html,body {
+     width: 100%;
+     height: 100%;
+     clear: both;
+     display: table;
+}
+ .dummy_page {
+     height: 200px;
+     width: 100%;
+     text-align: center;
+     box-sizing: border-box;
+     padding: 60px 0px;
+}
+/* STYLES SPECIFIC TO FOOTER */
+ .footer {
+     width: 100%;
+     position: relative;
+     height: auto;
+}
+ .footer .col {
+     width: 100%;
+     height: 100%;
+     padding: 0px 20px 20px 20px;
+     text-align: center;
+     margin-top: 5%;
+     box-sizing: border-box;
+}
+ .footer .col h1 {
+     width: 100%;
+     text-align: center;
+     margin: 0;
+     padding: 0;
+     font-family: inherit;
+     font-size: 15px;
+     line-height: 17px;
+     padding: 20px 0px 5px 0px;
+     color: white;
+     font-weight: normal;
+     text-transform: uppercase;
+     letter-spacing: 0.250em;
+}
+ .footer .col ul {
+     font-family: auto;
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+}
+ .footer .col ul li {
+     color: #fff;
+     font-size: 17px;
+     font-family: inherit;
+     font-weight: bold;
+     padding: 5px 0px 5px 0px;
+     cursor: pointer;
+     transition: .2s;
+     -webkit-transition: .2s;
+     -moz-transition: .2s;
+}
+ .social ul li, .sociall ul li{
+     display: inline-block;
+}
+/* hover page */
+ .Sections>li>a:hover,.footer .col ul li a:hover,.note-icon:hover,.col>ul>li:hover{
+     color:#6FB2FE!important;
+     text-decoration: none;
+     -webkit-transition: all 0.35s ease-in-out;
+}
+ .navbar-nav>li>.dropdown-menu:hover{
+     background-color: #6FB2FE;
+     -webkit-transition: all 0.35s ease-in-out;
+}
+ .dropdown-menu{
+     background-color: #00f!important;
+}
+ .navbar-inverse .navbar-nav>.open>a{
+     background-color: #6FB2FE!important;
+}
+ .btn:hover,.navbar-inverse .navbar-nav>li:hover,.navbar>.container-fluid .navbar-brand:hover,.navbar-nav>li>a:hover{
+     background-color:#6FB2FE;
+     color:#000!important;
+     -webkit-transition: all 0.35s ease-in-out;
+}
+/* End hover */
+ .clearfix {
+     clear: both;
+}
+ .col-xs-12{
+     width: 100%;
+}
+ .contain {
+     width: 100%;
+}
+ .sociall{
+     float: right!important;
+}
+ .social{
+     width: 100%;
+}
+ form .center-block{
+     border-radius: 30px;
+     margin-top: 20px;
+     margin:20px auto 0;
+}
+ .form-styling{
+     width: 50%;
+     margin: 20px auto!important;
+     float: none!important;
+}
+ @media only screen and (max-width: 1280px) {
+     .contain {
+         width: 100%;
+         display: flex;
+    }
+     .sociall{
+         margin-left: 70px;
+    }
+}
+ @media only screen and (max-width: 1139px) {
+     .contain .social,.sociall{
+         display: block;
+    }
+     .social {
+         width: 100%;
+    }
+     .sociall{
+         float: right!important;
+    }
+     .contain {
+         display: flex;
+    }
+}
+ @media only screen and (max-width: 950px) {
+     .footer .col{
+         width: 100%;
+    }
+     .footer .col h1 {
+         font-size: 14px;
+    }
+     .footer .col ul li {
+         font-size: 13px;
+    }
+     .contain {
+         display: block;
+    }
+     .pro,.hard {
+         flex-direction: column;
+    }
+     .pro li,.hard li {
+         padding: 20px 0;
+    }
+}
+ @media only screen and (max-width: 500px) {
+     .footer .col h1 {
+         font-size: 13px;
+    }
+     .footer .col ul li {
+         font-size: 10px;
+    }
+     .footer .col{
+         width: 100%;
+    }
+     .contain {
+         display: block;
+    }
+}
+
+ 
