@@ -24,7 +24,7 @@
 ***
 # Demo
 
-##### You can view the site directly <a href="">City-of-Electronics</a>
+##### You can view the site directly <a href="https://albeeralkhawri.github.io/City.of.Electronics/">City-of-Electronics</a>
 
 ![picture](https://www.up-00.com/i/00130/vqnlj35r50q1.png)
 ***
@@ -71,7 +71,7 @@
 
 - The site was posted by Github and hosted in the repository on Github (https://github.com/albeeralkhawri)
 - This is the repository link on which the site resides (https://github.com/albeeralkhawri/City_Of_Electronics)
-- This is the live display link ()
+- This is the live display link (https://albeeralkhawri.github.io/City.of.Electronics/)
 
 ***
 
@@ -98,7 +98,3 @@
 
 - My thanks and appreciation for all that helped me and support me in order to complete this project and thank also the support of teachers at the Code Institute
 - I also thanked the Code Institute, from which I learned a lot, and this is the product of my work and Thanks Mentor helped me a lot
-
-# City.of.Electronics
-# City.of.Electronics
-# City.of.Electronics
