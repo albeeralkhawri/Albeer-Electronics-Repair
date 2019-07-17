@@ -253,6 +253,9 @@ h1{
      box-sizing: border-box;
      padding: 60px 0px;
 }
+h2{
+ font-size: 35px!important;
+}
 /* STYLES SPECIFIC TO FOOTER */
  .footer {
      width: 100%;
