@@ -66,7 +66,7 @@
      padding-inline-start: 0px!important;
 }
  .main-container {
-     max-width: 950px;
+     max-width: 900px;
      margin: auto;
 }
  .octo, .octo div {
@@ -92,9 +92,9 @@
 }
  h3,h1,p,a,.text-center,.left-text,.h2,.col,.form-group,.col-75,.a,.Sections li a {
      color: #fff!important;
-     margin: 0;
-     font-family: 'Indie Flower', cursive;
-     text-decoration:none;
+     margin: 0!important;
+     font-family: 'Indie Flower', cursive!important;
+     text-decoration:none!important;
 }
 /* Home page */
 h1{
@@ -254,6 +254,45 @@ p{
  label,.form-control,.col li{
      font-family: 'Indie Flower', cursive!important;
 }
+.col-lg-10{
+     margin-top: 5%!important;
+    }
+  
+
+/* services page */
+
+.img-thumbnail {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    padding: 4px;
+    border: none!important;
+    line-height: 1.42857143;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+*{
+ -webkit-box-sizing: border-box;
+}
+.record {
+    padding: 15px;
+    
+    margin-bottom: 15px;
+    position: relative;
+    border-radius: 10px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.cover img {
+    width: 100%;
+    margin-top: 15px;
+    background-color: #fff;
+}
+
+/*  End services page */
+
 
 
 /* footer */
@@ -377,7 +416,7 @@ h2{
      .sociall{
          margin-left: 70px;
     }
-  
+    
 }
  @media only screen and (max-width: 1139px) {
      .contain .social,.sociall{
@@ -393,7 +432,7 @@ h2{
          display: flex;
     }
 }
- @media only screen and (max-width: 850px) {
+ @media only screen and (max-width: 950px) {
      .footer .col{
          width: 100%;
     }
@@ -416,11 +455,9 @@ h2{
 .content-box-small {
     width: 50%;
 }
- #About__image img{
-     display: none;
-    }
+
 }
- @media only screen and (max-width: 500px) {
+ @media only screen and (max-width: 750px) {
      .footer .col h1 {
          font-size: 13px;
     }
@@ -432,6 +469,9 @@ h2{
     }
      .contain {
          display: block;
+    }
+     #About__image img{
+     display: none;
     }
 }
 
