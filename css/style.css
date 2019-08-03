@@ -378,7 +378,6 @@ label,
 }
 
 .record {
-	padding: 15px;
 	position: relative;
 	border-radius: 10px;
 	margin-right: 15px;
@@ -390,7 +389,10 @@ label,
 	margin-top: 15px;
 	background-color: #fff;
 }
+.row{
+	margin: auto!important;
 
+}
 
 /*  End services page */
 
@@ -595,6 +597,14 @@ form .center-block {
 	}
 	.content-box-small {
 		width: 50%;
+	}
+	.img-thumbnail{
+	width: 50%!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    display: block!important;
+    margin-top: 10%!important;
+    margin-bottom: 10%!important;
 	}
 }
 
