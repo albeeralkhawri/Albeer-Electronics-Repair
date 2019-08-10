@@ -80,7 +80,7 @@
 ### Content
 
 - I designed the site by <a href="https://www.mockflow.com/">MockFlow</a>
-- The links in the computer section are taken from <a href="https://www.wikipedia.org/">Wikipedia</a>
+- The links in the about us section are taken from <a href="https://www.wikipedia.org/">Wikipedia</a>
 - I took a look at some of the code from <a href="https://www.w3schools.com/">w3schools</a>
 - I took a look a file README from <a href="https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive">Haley Schafer Portfolio</a>
 - I used font by <a href="https://fonts.googleapis.com/css?family=Indie+Flower">Google</a>
@@ -88,7 +88,6 @@
 ### Media
 
 - Photos have been obtained from <a href="https://www.google.ie/imghp?hl=ar&tab=wi&authuser=0&ogbl">Google Images</a>
-- Videos were obtained <a href="https://www.youtube.com/">YouTube</a>
 - The videos used in Gif Image are recorded through this program <a href="https://icecreamapps.com/Screen-Recorder/">Icecream Screen Recorder</a>
 - The videos were converted to Gif Image via this site <a href="https://imgflip.com/">imgflip</a>
 - Some images have been uploaded with a link through this site <a href="https://www.up-00.com/">UP00</a>
