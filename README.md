@@ -61,7 +61,7 @@
 <p align="center">
   <img width="200" src="https://www.up-00.com/i/00135/ohdxgr91b7hi.gif">
   <img width="200" src="https://www.up-00.com/i/00135/s869rk5oy1h4.gif">
-  <img width="200" src="https://www.up-00.com/i/00135/oo8shr0048ci.gif">
+  <img width="200" src="https://i.imgflip.com/37pqyk.gif">
 </p>
 
 ###### The project was also tested by blisk and on all Android and Apple phone sizes. I did not forget that also checked it on the tablets and the large screens, such as laptop and desktop, worked perfectly. I did not mention everything that was checked, but I just included a simple example in this above
