@@ -1,1 +1,4 @@
-Disallow: /sitemap.xml
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://albeeralkhawri.github.io/Albeer-Electronics-Repair/sitemap.xml
